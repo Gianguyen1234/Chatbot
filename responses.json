@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "type": "text",
+      "message": "👉 You’re looking for a creative job that will give you the opportunity to grow and learn.",
+      "delay": 2000
+    },
+    {
+      "type": "text",
+      "message": "👈 We’re looking for a talented and passionate person who wants to put their ideas into action.",
+      "delay": 3000
+    },
+    {
+      "type": "quickReplies",
+      "title": "Could this be love?",
+      "buttons": [
+        {
+          "title": "🔍 Find your role",
+          "value": "46befc73-6a92-4749-a85e-84cea0b8e911"
+        }
+      ],
+      "delay": 3000
+    },
+    {
+      "type": "text",
+      "message": "Welcome to our company! We're excited to have you explore the possibilities.",
+      "delay": 1500
+    },
+    {
+      "type": "text",
+      "message": "Our team values creativity, innovation, and collaboration. Join us on this exciting journey!",
+      "delay": 2500
+    },
+    {
+      "type": "text",
+      "message": "At our company, we believe in making a difference. Are you ready to make an impact?",
+      "delay": 2000
+    },
+    {
+      "type": "quickReplies",
+      "title": "Are you interested?",
+      "buttons": [
+        {
+          "title": "Learn more",
+          "value": "c251b183-5c27-42b2-86e1-f3ad0d0e12a7"
+        },
+        {
+          "title": "Apply now",
+          "value": "e52a0c99-8235-4d16-9319-54311aa68d76"
+        }
+      ],
+      "delay": 2500
+    },
+    {
+      "id": "c251b183-5c27-42b2-86e1-f3ad0d0e12a7",
+      "type": "text",
+      "message": "Learn more details about our open positions.",
+      "delay": 2000
+    },
+    {
+      "id": "e52a0c99-8235-4d16-9319-54311aa68d76",
+      "type": "text",
+      "message": "Great! Let's start the application process.",
+      "delay": 2000
+    }
+  ]
+}
+
